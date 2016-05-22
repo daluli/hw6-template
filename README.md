@@ -1,10 +1,10 @@
 #HW6 Inheritance and Exceptions 
 
 #First-Name Last-Name
+Dalu Li
+#TODO - Update your name in this readme.
 
-TODO - Update your name in this readme.
-
-TODO - Add a badge from travis CI here
+#TODO - Add a badge from travis CI here
 
 ##Problem statement:
 Implement a class hierarchy as shown in the accompanying class relationship UML. 
